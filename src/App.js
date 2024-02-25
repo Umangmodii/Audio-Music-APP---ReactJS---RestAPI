@@ -122,7 +122,7 @@ function App() {
               className="btn btn-success w-100"
               disabled={resultOffset === 0}
             >
-              Previous Next Page: {resultOffset / 20}
+              Previous Page: {resultOffset / 20}
             </button>
           </div>
           <div className="col">
